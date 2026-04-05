@@ -89,7 +89,7 @@ This project helped me understand the basics of:
 * Structuring web pages
 * Styling using CSS
 
-It is a beginner-level project that builds a strong foundation in frontend development.
+
 
 ---
 
