@@ -1,6 +1,6 @@
 # Portfolio Website (Student Project)
 
-## 📌 Project Overview
+##  Project Overview
 
 This project is a **personal portfolio website** created using **HTML and CSS**.
 It is designed to showcase my skills, projects, and basic web development knowledge.
@@ -14,7 +14,7 @@ The website demonstrates my understanding of:
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 The main goal of this project is to:
 
@@ -24,7 +24,7 @@ The main goal of this project is to:
 
 ---
 
-## 🧱 Website Structure
+##  Website Structure
 
 The portfolio website includes the following sections:
 
@@ -35,7 +35,7 @@ The portfolio website includes the following sections:
 
 ---
 
-## 🔗 Navigation
+##  Navigation
 
 * A navigation menu is included for easy access between sections
 * Contains at least four working links
@@ -43,14 +43,14 @@ The portfolio website includes the following sections:
 
 ---
 
-## 💻 Technologies Used
+##  Technologies Used
 
 * HTML5
 * CSS3
 
 ---
 
-## 🎨 Features
+##  Features
 
 * Clean and simple design
 * Responsive layout using CSS
@@ -60,28 +60,28 @@ The portfolio website includes the following sections:
 
 ---
 
-## 🌐 Hosting
+## Hosting
 
 The website is hosted using **GitHub Pages**.
 All project files are organized properly in the repository.
 
 ---
 
-## 📱 Responsiveness
+##  Responsiveness
 
 * The website is designed to work on different screen sizes
 * Media queries are used for better layout on mobile devices
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Download or clone the repository
 2. Open the `index.html` file in a browser
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 
 This project helped me understand the basics of:
 
@@ -93,9 +93,5 @@ It is a beginner-level project that builds a strong foundation in frontend devel
 
 ---
 
-## 🔗 Submission
 
-GitHub Repository Link: *(Add your link here)*
-
----
 
