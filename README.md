@@ -1,4 +1,4 @@
-# Portfolio Website (Student Project)
+# Portfolio Website 
 
 ##  Project Overview
 
